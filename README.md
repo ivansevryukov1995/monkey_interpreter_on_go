@@ -1,2 +1,2 @@
 # monkey_interpreter_on_go
-new test information
+This git repository was created for practice in writing an interpreter for the non-existent Monkey language.
