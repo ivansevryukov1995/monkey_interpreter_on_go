@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("New test 2")
+	fmt.Println("Остановка Страница 18 test failed")
 }
